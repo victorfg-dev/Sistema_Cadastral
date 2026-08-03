@@ -1,6 +1,6 @@
 # Sistema Cadastral
 
-Esse programa cadastra, deleta e busca usuários, que estão armazenados num vetor.
+Esse programa cadastra, deleta e busca usuários armazenados em um JSON.
 
 ## Funcionalidades (versão 1)
 - Menu de cadastro;
